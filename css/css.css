@@ -1,0 +1,191 @@
+
+
+.barra{
+    background-color: rgb(65, 63, 63);
+}
+
+
+
+.barra img{
+    width: 400px;
+    top: 20px;
+    bottom: 40px;
+}
+
+
+
+h2{
+    font-family: 'Quicksand';
+    font-weight: bold;
+    font-size: 40px;
+    color: rgb(39, 39, 39);
+}
+
+h3{
+    font-family: 'Quicksand';
+    font-weight: bold;
+    font-size: 20px;
+}
+p{
+    font-weight: bolder;
+    font-family: 'Quicksand';
+
+}
+
+b{
+    font-family: 'Quicksand';
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.columnas{
+    width: fit-content;
+}
+
+.fila{
+    background-color: rgb(241, 241, 241);
+}
+
+.fila2{
+    background-color: rgb(241, 241, 241)
+    
+    
+}
+
+.filaa{
+    background-color: rgb(255, 255, 255)
+}
+
+.fila3{
+    background-color: rgb(243, 243, 243);
+    
+    
+}
+
+.card{
+    background-color: #303030;
+    color: #ffffff;
+    font-weight: bolder;
+    font-family: 'Quicksand';
+    padding: 15px 15px 0px 15px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+.card1{
+    background-color: transparent;
+    color: #000;
+    font-family: 'Quicksand';
+    margin: 0 auto;
+    text-align: center;
+}
+
+.card-title{
+    font-weight: bold;
+}
+
+
+
+
+.botonino{
+    background-color: #BBCAED;
+  
+    font-family: 'Quicksand';
+    font-weight: bold;
+    margin: 0 25px;
+    padding: 20px 20px;
+    width: fit-content;
+    margin: 0 auto;
+
+}
+
+
+
+
+
+.final{
+    background-color: #303030;
+}
+
+.list-group-item{
+    background-color: rgb(45, 45, 58);
+    color: #ffffff;
+    font-family: 'Quicksand';
+    border: 1px solid #ffffff;
+}
+
+.redes img{
+    width: 100%;
+}
+
+.hiper a h3{
+    background-color: rgb(190, 190, 190);
+    margin-bottom: 0px;
+    padding: 6px 0;
+    text-decoration: none;
+}
+
+.hiper{
+    padding: 0px;
+}
+
+.hiper a{
+    width: 100%;
+    color: #000;
+}
+
+.hiper a h3:hover{
+    width: 100%;
+    color: #000;
+    text-decoration: none;
+    background-color: rgb(155, 155, 155);
+}
+
+
+.contacto{
+    color: #303030;
+    font-size: 50px;
+    font-family: 'Quicksand';
+    font-weight: bold;
+    background-color: rgb(224, 218, 218);
+    margin: 0 25px;
+    padding: 10px 100px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.contacta{
+    color: #303030;
+    font-size: 24px;
+    font-family: 'Quicksand';
+    font-weight: bold;
+  
+}
+
+
+
+.progress-bar{
+    background-color: rgb(14, 49, 146);
+}
+
+
+
+
+
+.btn{
+    height: 50px;
+    width: 300px;
+    font-family: 'Quicksand';
+    font-size: 24px;
+    font-weight: bold;
+}
+.hotelito{
+
+    border-radius: 20px;
+}
+
+
+
+
