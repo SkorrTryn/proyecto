@@ -1,18 +1,49 @@
+@media (max-width: 990px){
+    .barra .logo{
+        width: 100%;
+        top: 20px;
+        bottom: 40px;
+    }
+}
 
+
+/* Computador */
+@media (min-width: 991px){
+    .barra .logo{
+        width: 300px;
+        float: left;
+    }
+}
 
 .barra{
     background-color: rgb(65, 63, 63);
 }
 
-
-
-.barra img{
-    width: 400px;
-    top: 20px;
-    bottom: 40px;
+#search{
+    float: right;
+    width: 100%;
 }
 
+.borrar{
+    display: none;
+}
 
+.formLogin{
+    position: absolute; 
+    z-index: 1000;
+    background-color: #303030;
+    padding: 20px 35px;
+    color: #ffffff;
+    border-radius: 18px;
+    top: 1;
+    right: 40px;
+}
+
+.barra img{
+    width: 50px;
+    height: auto;
+    float: right;
+}
 
 h2{
     font-family: 'Quicksand';
@@ -48,13 +79,13 @@ b{
 }
 
 .fila2{
-    background-color: rgb(241, 241, 241)
-    
+    background-color: rgb(241, 241, 241);
+    width:100%
     
 }
 
 .filaa{
-    background-color: rgb(255, 255, 255)
+    background-color: rgb(255, 255, 255);
 }
 
 .fila3{
